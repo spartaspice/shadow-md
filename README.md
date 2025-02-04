@@ -25,9 +25,6 @@ Get New Version__😎✔
 
   <a href="https://session-generator--by-shadow-583ae988587e.herokuapp.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
-- https://session-generator--by-shadow-583ae988587e.herokuapp.com/pair
-
-
 -   *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO FORK AND ⭐STAR*
 - *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
 
