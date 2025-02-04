@@ -61,7 +61,7 @@
     },
     "STICKER_AUTHOR": {
       "description": "Put your sticker author data",
-      "value": "Keith",
+      "value": "shadow",
       "required": false
     },
     "STICKER_PACKNAME": {
