@@ -30,6 +30,10 @@ Get New Version__😎✔
 ## *DEPLOYMENT METHODS*
 - ***DEPLOY ON `HEROKU`
 - ***CREATE HEROKU  ACCOUNT***
+IF YAH GAT ONE CLICK TO DEPLOY HERE
+
+ <a href="https://dashboard.heroku.com/new?template=https://https://github.com/spartaspice/shadow-md"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 - ***CREATE NEW APP AND CONNECT YOUR REPOSITORY USING GITHUB***
 - ***THEN DEPLOY THE REPO AND BOOM 💥***
 - ***DON'T FORGOT TO STAR THE REPO***
