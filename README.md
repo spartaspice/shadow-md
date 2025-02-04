@@ -28,7 +28,7 @@ Get New Version__😎✔
 - https://session-generator--by-shadow-583ae988587e.herokuapp.com/pair
 
 
--   *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
+-   *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO FORK AND ⭐STAR*
 - *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
 
 
