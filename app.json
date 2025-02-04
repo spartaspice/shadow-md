@@ -66,12 +66,12 @@
     },
     "STICKER_PACKNAME": {
       "description": "Put your sticker packname data",
-      "value": "Keizzah",
+      "value": " shadow",
       "required": false
     },
     "BOTNAME": {
       "description": "Enter name for your bot,,you can change this.",
-      "value": "shadpw-𝐌𝐃",
+      "value": "shadow-𝐌𝐃",
       "required": false
     },
     "GC_PRESENCE": {
