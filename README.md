@@ -10,7 +10,7 @@ Get New Version__😎✔
 <a href="https://github.com/spartaspice/shadow-md.git">
     <img src="https://files.catbox.moe/nn3szf.jpg" width="700px">
   </a>
-<img src="https://files.catbox.moe/nn3szf.jpg">
+<img src="[https://files.catbox.moe/nn3szf.jpg](https://files.catbox.moe/d4yz5c.jpg)">
 
 
 
@@ -18,7 +18,7 @@ Get New Version__😎✔
 
 
 ## *NOTE*
-*SESSION ID GENERATOR FOR SHADOW-MD BASED BOTS*
+*SESSION ID GENERATOR FOR SHADOW-MD 
 
 - https://session-generator--by-shadow-583ae988587e.herokuapp.com/pair
 
