@@ -1,0 +1,31 @@
+{
+  "name": "shadow-md",
+  "description": "Javascript WhatsApp bot made by shadowSMR",
+  "logo": "https://files.catbox.moe/nn3szf.jpg",
+  "keywords": ["bot,shadow-md,shadow-md,shadow-md"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "https://files.catbox.moe/nn3szf.jpg.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "shadow-md is alive pay now😁.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
