@@ -19,8 +19,6 @@ Get New Version__😎✔
 
 ## *NOTE*
 *SESSION ID GENERATOR FOR SHADOW-MD 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
- 
 
 
   <a href="https://session-generator--by-shadow-583ae988587e.herokuapp.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
